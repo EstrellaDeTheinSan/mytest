@@ -23,9 +23,6 @@
                 <header class="bg-white dark:bg-gray-800 shadow">
                     <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
                         {{ $header }}
-                        This is testing. hello i have a testing. ကြိုဆိုပါ၏ 
-                        tasking hello is a timezind. 
-                        This is a car
                     </div>
                 </header>
             @endisset
